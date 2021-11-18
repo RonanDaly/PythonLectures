@@ -1,0 +1,2 @@
+def myFunction(a, b):
+    return a + b
